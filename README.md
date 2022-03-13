@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pratiman4d10
+- 👀 I’m interested in Chemistry, Python, MatLab
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on computaional chemistry and simulation
+- 📫 Contact me at: pratimande4d10@gmail.com
